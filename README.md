@@ -2,10 +2,29 @@
 
 This is a simple survey web application built using PHP, MySQL, HTML, and CSS.
 
-It includes:
-- index.php — The main survey front-end page
-- database.php — Dummy database credentials (replace with your own to run locally)
-- admin.php — Admin login page
-- dashboard.php — Admin dashboard showing submitted survey data in a table
+## Live Demo
+https://adish.wuaze.com/survey_2026/
 
-Note: This project uses dummy DB credentials for GitHub safety. To run it locally, replace the placeholders in database.php with your own database details.
+## Features
+- User data submission form
+- Frontend validation using JavaScript
+- Backend validation using PHP
+- Duplicate phone number prevention
+- Admin login system
+- Admin dashboard to view submitted data
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+## Project Structure
+- index.php — Main survey page
+- database.php — Dummy database config
+- admin.php — Admin login page
+- dashboard.php — Admin panel
+
+## Note
+This project uses dummy DB credentials for GitHub safety. Replace values in database.php to run locally.
